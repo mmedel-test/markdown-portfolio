@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Monkeys
+  * :see_no_evil:
+  * :hear_no_evil:
+  * :speak_no_evil:
